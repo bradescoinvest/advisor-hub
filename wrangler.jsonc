@@ -1,0 +1,9 @@
+{
+  // Site estático: só serve os arquivos da pasta public/ (não há código de Worker).
+  "name": "teste-advisor-hub",
+  "compatibility_date": "2026-11-24",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  }
+}
